@@ -3,9 +3,3 @@ test2.1
 тут текст есть, а в main нет
 
 main1
-
-progger1
-
-Solpadin1
-
-Solpadin2
